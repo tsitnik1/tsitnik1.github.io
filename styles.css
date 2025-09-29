@@ -6,3 +6,23 @@ h1 {
     color: whitesmoke;
     text-align: center;
 }
+h2 {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+a {
+    color: blue;
+    border: 2px whitesmoke;
+}
+.about {
+
+}
+.skills {
+
+}
+.projects {
+
+}
+.contact {
+    
+}
