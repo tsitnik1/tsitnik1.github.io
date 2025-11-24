@@ -1,0 +1,45 @@
+body {
+    background-color: cornsilk;
+}
+
+.information {
+    text-align: center;
+}
+
+h2, h4 {
+    text-decoration: underline;
+}
+
+/*Made with help from ChatGPT*/
+.education {
+    display: flex;
+    align-items: center;
+    gap: 270px;
+}
+
+.education_content {
+    width: 250px;
+    margin-left: 375px
+}
+
+.experience {
+    display: flex;
+    align-items: center;
+    gap: 260px;
+}
+
+.experience_content {
+    width: 600px;
+    margin-left: 375px;
+}
+
+.skills {
+    display: flex;
+    align-items: center;
+    gap: 320px;
+}
+
+hr.thicker {
+    border-width: 1px;
+    border-color: black;
+}
